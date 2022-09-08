@@ -3,10 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/aghni/AndroidStudioProjects/chapter3topic5/app/src/main/res/drawable/round_square_pink.xml" value="0.125" />
         <entry key="..\:/Users/aghni/AndroidStudioProjects/chapter3topic5/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/aghni/AndroidStudioProjects/chapter3topic5/app/src/main/res/layout/activity_main_prov.xml" value="0.1" />
         <entry key="..\:/Users/aghni/AndroidStudioProjects/chapter3topic5/app/src/main/res/layout/item_mhs.xml" value="0.13333333333333333" />
         <entry key="..\:/Users/aghni/AndroidStudioProjects/chapter3topic5/app/src/main/res/layout/item_provinsi.xml" value="0.25" />
+        <entry key="..\:/Users/aghni/AndroidStudioProjects/chapter3topic5/app/src/main/res/layout/round_square_pink.xml" value="0.2" />
       </map>
     </option>
   </component>
